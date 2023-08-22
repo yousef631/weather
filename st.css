@@ -1,11 +1,14 @@
 body{
-    background-color:skyblue
-    
-    
+    background:linear-gradient(135deg,#00feba,#5b548a);
+    color: black;
 }
 .title{
     text-align: center;
     color:black;
     font-size: xx-large;
-    background-color: dodgerblue;
+    
+}
+.btn{
+    height: 40px;
+    width: 4px;
 }
