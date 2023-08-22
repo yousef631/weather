@@ -12,3 +12,7 @@ body{
     height: 40px;
     width: 4px;
 }
+.card{
+    text-align: center;
+    margin: 90px;
+}
