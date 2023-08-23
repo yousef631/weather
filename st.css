@@ -1,5 +1,5 @@
 body{
-    background:linear-gradient(135deg,#00feba,#5b548a);
+    background:linear-gradient(150deg,#00feba,#5b548a);
     color: black;
 }
 .title{
@@ -8,11 +8,28 @@ body{
     font-size: xx-large;
     
 }
-.btn{
-    height: 40px;
-    width: 4px;
-}
+
 .card{
     text-align: center;
     margin: 90px;
+    height: 2800px;
+}
+.img{
+    margin: 40px;
+    height: 100px;
+    width: min-content;
+    margin-right: 280px;
+    margin-bottom: 20px;
+    margin-top: -80px;
+}
+.h{
+    margin-top:80px ;
+}
+.img2{
+    margin: 40px;
+    height: 100px;
+    width: min-content;
+    margin-right: 480px;
+    margin-top: -80px;
+    
 }
